@@ -1,0 +1,61 @@
+{
+  "eval_set_id": "evalsetf03b5a",
+  "name": "evalsetf03b5a",
+  "description": null,
+  "eval_cases": [
+    {
+      "eval_id": "casea96d7b",
+      "conversation": [
+        {
+          "invocation_id": "e-538aed45-4e52-43b4-9955-8a9600b3930a",
+          "user_content": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "너는 뭘 할수있니"
+              }
+            ],
+            "role": "user"
+          },
+          "final_response": {
+            "parts": [
+              {
+                "video_metadata": null,
+                "thought": null,
+                "inline_data": null,
+                "file_data": null,
+                "thought_signature": null,
+                "code_execution_result": null,
+                "executable_code": null,
+                "function_call": null,
+                "function_response": null,
+                "text": "저는 일상 대화를 담당하는 에이전트로서, 여러 가지 일을 도와드릴 수 있어요. 예를 들어:\n\n- **일상 대화**: 기분이나 생각을 털어놓거나 함께 이야기를 나누는 걸 좋아해요.\n- **정보 제공**: 날씨, 시계, 뉴스 요약 같은 기본적인 정보를 알려드릴 수 있어요. (날씨나 시계 같은 경우엔 도구를 사용해요.)\n- **조언**: 공부, 일, 인간관계 등 여러 주제에 대해 도움말을 드릴 수 있어요.\n- **학습 및 연습**: 언어 연습이나 퀴즈, 퍼즐 같은 재미있는 활동을 제공할 수 있어요.\n- **기억 도움**: 약속이나 할 일 같은 간단한 리스트를 기억해 두고 필요할 때 알려드릴 수 있어요.\n\n필요한 게 있으면 언제든 물어봐 주세요!"
+              }
+            ],
+            "role": null
+          },
+          "intermediate_data": {
+            "tool_uses": [],
+            "intermediate_responses": []
+          },
+          "creation_timestamp": 1756740405.354695
+        }
+      ],
+      "session_input": {
+        "app_name": "multi_tool_agent",
+        "user_id": "user",
+        "state": {}
+      },
+      "creation_timestamp": 1756740426.4070618
+    }
+  ],
+  "creation_timestamp": 1756738590.1868129
+}
